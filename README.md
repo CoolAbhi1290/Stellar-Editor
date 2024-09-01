@@ -1,3 +1,5 @@
+# ⚠️ DEPRECATION: Spaceflight Simulator 2 has been announced, inherently making Stellar stale.
+
 # Stellar [<img src="https://stellarbeta.web.app/android-chrome-512x512.png" alt="PostCSS Logo" width="90" height="90" align="right">](https://github.com/tresabhi/stellar)
 
 [![CI Build](https://github.com/tresabhi/stellar/actions/workflows/ci-build.yml/badge.svg)](https://github.com/tresabhi/stellar/actions/workflows/ci-build.yml)

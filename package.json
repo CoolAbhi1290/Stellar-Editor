@@ -18,7 +18,7 @@
     "bepaint": "^0.1.0-beta.3",
     "browser-fs-access": "^0.33.0",
     "fuzzysort": "^2.0.4",
-    "immer": "^9.0.15",
+    "immer": "^10.0.3",
     "lodash": "^4.17.21",
     "mathjs": "^11.6.0",
     "moment": "^2.29.4",

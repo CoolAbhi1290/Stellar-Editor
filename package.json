@@ -58,7 +58,7 @@
     "prettier": "^2.8.8",
     "typescript": "^5.0.2",
     "unzipper": "^0.10.11",
-    "vite": "^4.3.9",
+    "vite": "^4.5.0",
     "vite-plugin-checker": "^0.6.0",
     "vite-plugin-pwa": "^0.14.7",
     "vite-plugin-svgr": "^2.2.2",
